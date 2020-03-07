@@ -4,15 +4,26 @@
 package thread.complete.listener;
 
 import java.util.Random;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class App {
     public static void main(String[] args) {
         AppContext appContext = new AppContext();
         for (int i = 98; i < 10000; i++) {
             try {
-                Thread.sleep(new Random().nextInt(10000));
+                AtomicInteger at = new AtomicInteger(i);
+                Thread.sleep(new Random().nextInt(10*at.get()));
                 System.out.println("registering client: " + i);
-                appContext.registerClientNotification(new Client(i));
+                // appContext.registerClientNotification(new Client(i));
+                new Thread(() -> {
+                    try {
+                        appContext.registerClientNotification(new Client(at.get()));
+                    } catch (InterruptedException e) {
+                        // TODO Auto-generated catch block
+                        e.printStackTrace();
+                    }
+
+                }).start();
             } catch (InterruptedException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();

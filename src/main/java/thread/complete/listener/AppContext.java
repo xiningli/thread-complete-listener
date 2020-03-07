@@ -25,7 +25,7 @@ class Sale extends Observable implements ThreadCompleteListener{
     }
     public synchronized void addClient(Client client) throws InterruptedException {
         if (hasTruck==false) {
-            System.out.println("no truck");
+            System.out.println("no truck for cient:" + client.claimedPrice);
             return; 
         }
 

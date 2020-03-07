@@ -7,7 +7,6 @@ Just before ready to dispatch, the sale will notify the clients taht we are read
 
 Truck driver will notify the sale if it arrives back to the start, and sale can sale new tickets. 
 
-
 registering client: 98
 too poor
 registering client: 99
@@ -28,39 +27,258 @@ Notifying the clients that we can go
 102 can now go!
 101 can now go!
 100 can now go!
-Engine start, sale man is finishing: 2016447921
-preparing to dispatch the escort truck
-dispatched the escort truck
-escort truck is back
-bus arrived!
 registering client: 105
-Adding observer with price: 105
 registering client: 106
-Adding observer with price: 106
 registering client: 107
-Adding observer with price: 107
 registering client: 108
-Adding observer with price: 108
 registering client: 109
-Adding observer with price: 109
-Notifying the clients that we can go
-109 can now go!
-108 can now go!
-107 can now go!
-106 can now go!
-105 can now go!
-Engine start, sale man is finishing: 666988784
-preparing to dispatch the escort truck
 registering client: 110
-no truck
+registering client: 111
+registering client: 112
+registering client: 113
+registering client: 114
+Engine start, sale man is finishing: 623836103
+no truck for cient:114
+no truck for cient:113
+preparing to dispatch the escort truck
+no truck for cient:112
+no truck for cient:111
+no truck for cient:110
+no truck for cient:109
+no truck for cient:108
+no truck for cient:107
+no truck for cient:106
+no truck for cient:105
+registering client: 115
+no truck for cient:115
+registering client: 116
+no truck for cient:116
+registering client: 117
+no truck for cient:117
 dispatched the escort truck
+registering client: 118
+no truck for cient:118
+registering client: 119
+no truck for cient:119
+registering client: 120
+no truck for cient:120
+registering client: 121
+no truck for cient:121
+registering client: 122
+no truck for cient:122
+registering client: 123
+no truck for cient:123
+registering client: 124
+no truck for cient:124
+registering client: 125
+no truck for cient:125
+registering client: 126
+no truck for cient:126
+registering client: 127
+no truck for cient:127
+registering client: 128
+no truck for cient:128
+registering client: 129
+no truck for cient:129
+registering client: 130
+no truck for cient:130
+registering client: 131
+no truck for cient:131
+registering client: 132
+no truck for cient:132
+registering client: 133
+no truck for cient:133
+registering client: 134
+no truck for cient:134
+registering client: 135
+no truck for cient:135
+registering client: 136
+no truck for cient:136
+registering client: 137
+no truck for cient:137
+registering client: 138
+no truck for cient:138
+registering client: 139
+no truck for cient:139
 escort truck is back
 bus arrived!
-registering client: 111
-Adding observer with price: 111
-registering client: 112
-Adding observer with price: 112
-registering client: 113
-Adding observer with price: 113
-registering client: 114
-Adding observer with price: 114
+registering client: 140
+Adding observer with price: 140
+registering client: 141
+Adding observer with price: 141
+registering client: 142
+Adding observer with price: 142
+registering client: 143
+Adding observer with price: 143
+Notifying the clients that we can go
+143 can now go!
+142 can now go!
+141 can now go!
+140 can now go!
+registering client: 144
+registering client: 145
+registering client: 146
+registering client: 147
+Engine start, sale man is finishing: 1035057739
+no truck for cient:147
+preparing to dispatch the escort truck
+no truck for cient:146
+no truck for cient:145
+no truck for cient:144
+registering client: 148
+no truck for cient:148
+registering client: 149
+no truck for cient:149
+registering client: 150
+no truck for cient:150
+registering client: 151
+no truck for cient:151
+dispatched the escort truck
+registering client: 152
+no truck for cient:152
+registering client: 153
+no truck for cient:153
+registering client: 154
+no truck for cient:154
+registering client: 155
+no truck for cient:155
+registering client: 156
+no truck for cient:156
+registering client: 157
+no truck for cient:157
+registering client: 158
+no truck for cient:158
+registering client: 159
+no truck for cient:159
+registering client: 160
+no truck for cient:160
+registering client: 161
+no truck for cient:161
+registering client: 162
+no truck for cient:162
+registering client: 163
+no truck for cient:163
+registering client: 164
+no truck for cient:164
+registering client: 165
+no truck for cient:165
+registering client: 166
+no truck for cient:166
+registering client: 167
+no truck for cient:167
+registering client: 168
+no truck for cient:168
+registering client: 169
+no truck for cient:169
+registering client: 170
+no truck for cient:170
+registering client: 171
+no truck for cient:171
+registering client: 172
+no truck for cient:172
+registering client: 173
+no truck for cient:173
+escort truck is back
+bus arrived!
+registering client: 174
+Adding observer with price: 174
+registering client: 175
+Adding observer with price: 175
+registering client: 176
+Adding observer with price: 176
+Notifying the clients that we can go
+176 can now go!
+175 can now go!
+174 can now go!
+registering client: 177
+registering client: 178
+Engine start, sale man is finishing: 140908802
+no truck for cient:178
+preparing to dispatch the escort truck
+no truck for cient:177
+registering client: 179
+no truck for cient:179
+registering client: 180
+no truck for cient:180
+dispatched the escort truck
+registering client: 181
+no truck for cient:181
+registering client: 182
+no truck for cient:182
+registering client: 183
+no truck for cient:183
+registering client: 184
+no truck for cient:184
+registering client: 185
+no truck for cient:185
+registering client: 186
+no truck for cient:186
+registering client: 187
+no truck for cient:187
+registering client: 188
+no truck for cient:188
+registering client: 189
+no truck for cient:189
+registering client: 190
+no truck for cient:190
+registering client: 191
+no truck for cient:191
+registering client: 192
+no truck for cient:192
+registering client: 193
+no truck for cient:193
+registering client: 194
+no truck for cient:194
+escort truck is back
+bus arrived!
+registering client: 195
+Adding observer with price: 195
+registering client: 196
+Adding observer with price: 196
+registering client: 197
+Adding observer with price: 197
+Notifying the clients that we can go
+197 can now go!
+196 can now go!
+195 can now go!
+registering client: 198
+registering client: 199
+Engine start, sale man is finishing: 1691455490
+no truck for cient:199
+no truck for cient:198
+preparing to dispatch the escort truck
+registering client: 200
+no truck for cient:200
+registering client: 201
+no truck for cient:201
+registering client: 202
+no truck for cient:202
+registering client: 203
+no truck for cient:203
+dispatched the escort truck
+registering client: 204
+no truck for cient:204
+registering client: 205
+no truck for cient:205
+registering client: 206
+no truck for cient:206
+registering client: 207
+no truck for cient:207
+registering client: 208
+no truck for cient:208
+registering client: 209
+no truck for cient:209
+registering client: 210
+no truck for cient:210
+registering client: 211
+no truck for cient:211
+registering client: 212
+no truck for cient:212
+registering client: 213
+no truck for cient:213
+registering client: 214
+no truck for cient:214
+registering client: 215
+no truck for cient:215
+registering client: 216
+no truck for cient:216
