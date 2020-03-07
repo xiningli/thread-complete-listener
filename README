@@ -1,0 +1,66 @@
+This is a situration that we have a escort truck
+It has a sale. Sale is responsible for selling tickets for the truck. 
+It has a minumum price for each ticket. And It has 5 seats. 
+The sale will notify the truck to dispatch if it receives enough fund, 500 rmb. 
+Or sale will notify the truch to  dispatch if 5 clients is seated.
+Just before ready to dispatch, the sale will notify the clients taht we are ready to go. 
+
+Truck driver will notify the sale if it arrives back to the start, and sale can sale new tickets. 
+
+
+registering client: 98
+too poor
+registering client: 99
+too poor
+registering client: 100
+Adding observer with price: 100
+registering client: 101
+Adding observer with price: 101
+registering client: 102
+Adding observer with price: 102
+registering client: 103
+Adding observer with price: 103
+registering client: 104
+Adding observer with price: 104
+Notifying the clients that we can go
+104 can now go!
+103 can now go!
+102 can now go!
+101 can now go!
+100 can now go!
+Engine start, sale man is finishing: 2016447921
+preparing to dispatch the escort truck
+dispatched the escort truck
+escort truck is back
+bus arrived!
+registering client: 105
+Adding observer with price: 105
+registering client: 106
+Adding observer with price: 106
+registering client: 107
+Adding observer with price: 107
+registering client: 108
+Adding observer with price: 108
+registering client: 109
+Adding observer with price: 109
+Notifying the clients that we can go
+109 can now go!
+108 can now go!
+107 can now go!
+106 can now go!
+105 can now go!
+Engine start, sale man is finishing: 666988784
+preparing to dispatch the escort truck
+registering client: 110
+no truck
+dispatched the escort truck
+escort truck is back
+bus arrived!
+registering client: 111
+Adding observer with price: 111
+registering client: 112
+Adding observer with price: 112
+registering client: 113
+Adding observer with price: 113
+registering client: 114
+Adding observer with price: 114
